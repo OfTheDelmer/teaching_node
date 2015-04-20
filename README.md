@@ -29,9 +29,9 @@ In a very simple Express CRUD application we have most the routing and control l
 With Rails **ActiveRecord** gives us both a migration system and a modeling system for our database. In the node world the existing solution for this is **Sequelize**, which is not without it's faults, but gets the job done.
 
 
-*[Sequelize](sequelize.md)
+* [Sequelize](sequelize.md)
 
-*[See more on associations](https://github.com/sf-wdi-17/notes/blob/master/lectures/week-04/_1_monday/dawn/associations_with_sequelize.md)
+* [See more on associations](https://github.com/sf-wdi-17/notes/blob/master/lectures/week-04/_1_monday/dawn/associations_with_sequelize.md)
 
 ### Views (EJS)
 
