@@ -42,6 +42,7 @@ EJS is remarkably similar to ERB, and is great way to prepare them for working w
 
 Express is relatively simple API to fiddle with and teach to students.
 
+* [Simple Express](https://github.com/sf-wdi-17/notes/blob/master/lectures/week-03/_2_tuesday/dawn/README.md)
 * [Simple Login](https://github.com/sf-wdi-17/simple_login)
 * [API's](https://github.com/sf-wdi-17/inclass_api)
 
