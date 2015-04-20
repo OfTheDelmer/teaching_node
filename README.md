@@ -47,7 +47,7 @@ Express is relatively simple API to fiddle with and teach to students.
 
 ### Current SF WDI Instance
 
-[SF WDI](https://github.com/sf-wdi-17/notes)
+[SF WDI 17](https://github.com/sf-wdi-17/notes)
 
 
 
