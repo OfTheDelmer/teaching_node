@@ -6,7 +6,7 @@
 | Compare and contrast parallels between teaching Rails and Express |
 | Answer questions related to teaching JS first curriculum. |
 
-## CRUD Files
+## Typical Files Of Interest
 
 In a Rails application we would typically have a few main files to discuss when teaching CRUD to students.
 
@@ -24,7 +24,7 @@ In a very simple Express CRUD application we have most the routing and control l
 * `package.json`
 
 
-### CRUD Models
+### Models
 
 With Rails **ActiveRecord** gives us both a migration system and a modeling system for our database. In the node world the existing solution for this is **Sequelize**, which is not without it's faults, but gets the job done.
 
