@@ -3,10 +3,8 @@
 
 | Objectives |
 | :--- |
-| Review and apply core concepts from a Rails/Sinatra CRUD app to Express |
-| Review and apply core concepts from a Rails/Sinatra Authentication Setup to Express |
-| Review and apply core concepts from Rails/Sinatra API integration to an Express app. |
-
+| Compare and contrast parallels between teaching Rails and Express |
+| Answers questions related to teaching JS first curriculum. |
 
 ## CRUD Files
 
