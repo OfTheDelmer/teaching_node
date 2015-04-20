@@ -49,6 +49,12 @@ Express is relatively simple API to fiddle with and teach to students.
 
 [SF WDI 17](https://github.com/sf-wdi-17/notes)
 
+### Other Resources
+
+[SF WDI 15](https://github.com/sf-wdi-15/notes)
+[SF WDI 14](https://github.com/sf-wdi-14/notes)
+[SF WDI 10](https://github.com/wdi-sf-july/notes)
+
 
 
 
