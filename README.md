@@ -4,7 +4,7 @@
 | Objectives |
 | :--- |
 | Compare and contrast parallels between teaching Rails and Express |
-| Answers questions related to teaching JS first curriculum. |
+| Answer questions related to teaching JS first curriculum. |
 
 ## CRUD Files
 
